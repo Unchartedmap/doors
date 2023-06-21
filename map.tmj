@@ -205,8 +205,8 @@
                     3212, 0, 3614, 0, 3662, 3663, 0, 3614, 0, 3212, 3228, 0, 0, 0, 3458, 0, 4431, 0, 3228, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6855, 3442, 6854, 6855, 6858, 6857, 6858, 6859, 0, 0, 0, 3436, 3437, 3437, 3437, 3437, 3437, 3437, 3438, 0, 3484, 3485, 3485, 3485, 3485, 3485, 3485, 3485, 3486, 0,
                     3212, 0, 3622, 3351, 3670, 3671, 3353, 3622, 0, 3212, 3228, 1521, 0, 3948, 3949, 3950, 1610617152, 1522, 3228, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6871, 6869, 6870, 6871, 6874, 6873, 6874, 6875, 0, 0, 0, 3444, 3445, 3445, 3445, 3445, 3445, 3445, 3446, 0, 3492, 3493, 3493, 3493, 3493, 3493, 3493, 3493, 3494, 0,
                     3212, 0, 0, 3359, 3360, 3360, 3361, 0, 0, 3212, 3228, 1534, 0, 3956, 3957, 3958, 1610617151, 1535, 3228, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3458, 3458, 3458, 3458, 3458, 3458, 3458, 3458, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    3212, 0, 0, 3367, 3368, 3368, 3369, 0, 0, 3212, 3228, 0, 0, 3964, 3965, 3966, 0, 0, 3228, 0, 0, 0, 0, 6154, 6155, 0, 3249, 0, 0, 0, 0, 0, 0, 0, 6154, 6155, 0, 0, 3250, 3251, 5020, 5022, 0, 0, 0, 0, 5020, 5071, 5071, 5071, 5071, 5071, 5071, 5022, 0, 0, 0, 3255, 5020, 5022,
-                    3222, 3220, 3220, 3220, 0, 0, 3220, 3220, 3220, 3223, 3238, 3236, 0, 0, 0, 0, 0, 3236, 3239, 0, 3090, 0, 0, 6156, 6157, 0, 3257, 0, 0, 3090, 0, 0, 0, 0, 6156, 6157, 0, 0, 3258, 3259, 5036, 5038, 0, 0, 0, 0, 5036, 5087, 5087, 5087, 5087, 5087, 5087, 5038, 0, 0, 0, 0, 5036, 5038,
+                    3212, 0, 0, 3367, 3368, 3368, 3369, 0, 0, 3212, 3228, 0, 0, 3964, 3965, 3966, 0, 0, 3228, 0, 0, 0, 6154, 6155, 0, 0, 6154, 6155, 0, 0, 0, 0, 0, 0, 6154, 6155, 0, 0, 3250, 3251, 5020, 5022, 0, 0, 0, 0, 5020, 5071, 5071, 5071, 5071, 5071, 5071, 5022, 0, 0, 0, 3255, 5020, 5022,
+                    3222, 3220, 3220, 3220, 0, 0, 3220, 3220, 3220, 3223, 3238, 3236, 0, 0, 0, 0, 0, 3236, 3239, 0, 3090, 0, 6156, 6157, 0, 0, 6156, 6157, 0, 3090, 0, 0, 0, 0, 6156, 6157, 0, 0, 3258, 3259, 5036, 5038, 0, 0, 0, 0, 5036, 5087, 5087, 5087, 5087, 5087, 5087, 5038, 0, 0, 0, 0, 5036, 5038,
                     0, 4957, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4955, 0, 0, 0, 0, 4942, 0, 0, 0, 0, 0, 0, 0, 0, 4955, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4940, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4942, 0, 0,
                     0, 0, 0, 0, 0, 4956, 0, 0, 0, 0, 0, 0, 0, 0, 4955, 0, 0, 0, 4956, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4942, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4940, 0, 0, 4940, 0, 4940, 0, 0, 0, 4942, 0, 0, 0, 0, 0, 0, 0, 0,
                     6524, 0, 0, 2147489738, 2147489737, 0, 0, 0, 0, 2147489732, 2147489731, 2147489730, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2147489774, 2147489773, 0, 0, 0, 0, 0, 0, 2147489766, 0, 0, 6524, 0, 0, 0, 2147489818, 2147489817, 2147489816, 2147489815, 2147489814, 2147489813, 2147489812, 2147489811, 2147489810, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -288,7 +288,6 @@
                  "x":0,
                  "y":0
                 }],
-         "locked":true,
          "name":"floor",
          "opacity":1,
          "type":"group",
@@ -482,49 +481,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
-                 "height":61.6672851518306,
-                 "id":12,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "visible":true,
-                 "width":93.7162209047986,
-                 "x":483.919325398621,
-                 "y":14.0269116471316
-                }, 
-                {
-                 "class":"area",
-                 "height":128,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":192,
-                 "x":32,
-                 "y":96
-                }, 
-                {
                  "class":"area",
                  "height":128,
                  "id":14,
@@ -537,13 +493,13 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":224,
-                 "x":640,
-                 "y":544
+                 "width":306,
+                 "x":1284,
+                 "y":0
                 }, 
                 {
                  "class":"area",
-                 "height":224,
+                 "height":66,
                  "id":16,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -569,60 +525,15 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":192,
-                 "x":768,
-                 "y":224
-                }, 
-                {
-                 "class":"area",
-                 "height":39.6969696969697,
-                 "id":17,
-                 "name":"clock",
-                 "rotation":0,
-                 "visible":true,
-                 "width":50.2727272727272,
-                 "x":438.484848484849,
-                 "y":96.3333333333333
-                }, 
-                {
-                 "class":"area",
-                 "height":64,
-                 "id":18,
-                 "name":"to-conference",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"conference.tmj#from-office"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":32,
-                 "x":0,
-                 "y":512
-                }, 
-                {
-                 "class":"area",
-                 "height":32,
-                 "id":19,
-                 "name":"from-conference",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":32,
-                 "x":64,
-                 "y":544
+                 "width":224,
+                 "x":692,
+                 "y":382
                 }, 
                 {
                  "class":"variable",
                  "height":0,
                  "id":20,
-                 "name":"my_door",
+                 "name":"audit_door",
                  "point":true,
                  "properties":[
                         {
@@ -653,12 +564,202 @@
                  "rotation":0,
                  "visible":true,
                  "width":0,
-                 "x":251.384015594542,
-                 "y":444.756335282651
+                 "x":181.384015594542,
+                 "y":290.756335282651
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":21,
+                 "name":"counsulting_door",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":817.384015594542,
+                 "y":204.756335282651
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":22,
+                 "name":"tls_door",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":1055.38401559454,
+                 "y":270.756335282651
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":24,
+                 "name":"deals_door",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":1443.38401559454,
+                 "y":284.756335282651
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":25,
+                 "name":"ifs_door",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":1755.38401559454,
+                 "y":284.756335282651
+                }, 
+                {
+                 "class":"variable",
+                 "height":0,
+                 "id":23,
+                 "name":"techno_door",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":471.384015594542,
+                 "y":236.756335282651
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -801,7 +902,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":21,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
