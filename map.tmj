@@ -425,7 +425,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/hc-laval"
+                         "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/human_capital"
                         }],
                  "type":"tilelayer",
                  "visible":true,
