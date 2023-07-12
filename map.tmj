@@ -387,7 +387,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/classroomtest"
+                         "value":"https:\/\/play.workadventu.re\/@\/pwc-france\/pwc-france\/pwc_office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
